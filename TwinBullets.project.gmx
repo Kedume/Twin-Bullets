@@ -163,8 +163,8 @@
     <room>rooms\rm_end</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41875.9003523148</constant>
-    <constant name="GM_version">'1.0.0.0'</constant>
+    <constant name="GM_build_date">41877.4025615741</constant>
+    <constant name="GM_version">'100'</constant>
   </constants>
   <help>
     <rtf>help.rtf</rtf>

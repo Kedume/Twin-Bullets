@@ -101,6 +101,10 @@
     <instance objName="obj_t_l6" x="400" y="48" name="inst_B8DCECB0" locked="0" code="" scaleX="0.600000023841858" scaleY="0.600000023841858" colour="4294967295" rotation="0"/>
     <instance objName="obj_aliens" x="592" y="48" name="inst_EE8EA42D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_humans" x="208" y="48" name="inst_AF0A3FB7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="208" y="80" name="inst_5C5A2673" locked="0" code="" scaleX="11" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="208" y="432" name="inst_D4596873" locked="0" code="" scaleX="11" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="48" y="256" name="inst_31698406" locked="0" code="" scaleX="1" scaleY="11.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="368" y="256" name="inst_24598818" locked="0" code="" scaleX="1" scaleY="11.5" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
